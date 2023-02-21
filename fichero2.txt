@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Cambio arriba
 
 Trabajo realizado a medias.
+=======
+Trabajo realizado a medias.
+
+cambio abajo
+>>>>>>> branch 'master' of git@github.com:Grodrife/cursogiteclipse.git
